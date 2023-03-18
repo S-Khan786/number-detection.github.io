@@ -24,7 +24,7 @@
     <pre><code>python finger_number_detection.py 0</code></pre>
     <h2>Sample image</h2>
     <h2 align="center">
-    <img src="https://github.com/cobiwave/gatsby-simplefolio/blob/master/examples/example.png" alt="Simplefolio" width="100%">
+    <img src="https://github.com/S-Khan786/number-detection.github.io/blob/master/sample_photos/f0.png" alt="Simplefolio" width="100%">
     </h2>
   </body>
 </html>
